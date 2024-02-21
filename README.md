@@ -1,1 +1,5 @@
-# Pyspark-Capstone-Project-in-Databricks
+Objective: To demonstrate proficiency in PySpark and Databricks by conducting data analysis tasks on a dataset containing airline data from 1987 to 2008.
+
+Brief Description: In this capstone project, I utilized PySpark within the Databricks environment to analyze a comprehensive dataset spanning airline data from 1987 to 2008. The project encompassed a series of data manipulation and analysis tasks, including the creation of DataFrames, definition of schemas, data filtering based on specific criteria, creation of new columns for enhanced insights, aggregation of data for summary statistics, and writing data in Delta format for improved data management and scalability. Through these tasks, I gained practical experience in leveraging PySpark's distributed computing capabilities to efficiently handle large-scale datasets, perform complex data operations, and derive meaningful insights from the data.
+
+Conclusion: The project significantly improved proficiency in PySpark and Databricks, providing valuable experience in handling extensive datasets efficiently. It solidified understanding of data engineering concepts and the ability to execute complex operations. Overall, the project's practical application reinforced skills necessary for real-world data analysis and engineering tasks.
